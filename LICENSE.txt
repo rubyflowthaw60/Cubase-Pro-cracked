@@ -16,4 +16,4 @@ Cubase Pro Edition. professional mixing, VariAudio 3, chord track, spectral comp
 
 
 TAGS
-cubase, cubase-14, spectral-eq, steinberg-cubase, variaudio              
+cubase, cubase-14, spectral-eq, steinberg-cubase, variaudio               
